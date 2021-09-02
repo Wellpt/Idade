@@ -3,5 +3,5 @@ let anoNasc = parseInt(prompt("Qual ano de nascimento? "));
 let idade = anoAtual - anoNasc;
 
 
-console.log("Sua idade é ", (idade) );
+alert(`Você tem ${idade} anos de idade`);
 
