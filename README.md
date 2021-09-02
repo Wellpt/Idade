@@ -1,2 +1,2 @@
-# Descobrindo sua Idade
-Primeiros projetos em JavaScript
+# Pequeno projetos em JS
+Primeiros passos na linguagem JavaScript
