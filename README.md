@@ -1,2 +1,2 @@
-# Pequeno projetos em JS
-Primeiros passos na linguagem JavaScript
+# Saber idade
+Forma simples de saber a idade de qualquer pessoal
